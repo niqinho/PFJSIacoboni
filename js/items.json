@@ -1,0 +1,216 @@
+[
+    {
+        "id": "pastel-1",
+       "titulo": "Pastel1",
+        "imagen": "./img/pastel1.jpg",
+        "categoria": {
+            "nombre": "Pasteles",
+            "id": "pasteles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pastel-2",
+       "titulo": "Pastel2",
+        "imagen": "./img/pastel2.jpg",
+        "categoria": {
+            "nombre": "Pasteles",
+            "id": "pasteles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pastel-3",
+       "titulo": "Pastel3",
+        "imagen": "./img/pastel3.jpg",
+        "categoria": {
+            "nombre": "Pasteles",
+            "id": "pasteles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pastel-4",
+       "titulo": "Pastel4",
+        "imagen": "./img/pastel4.jpg",
+        "categoria": {
+            "nombre": "Pasteles",
+            "id": "pasteles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pastel-5",
+       "titulo": "Pastel5",
+        "imagen": "./img/pastel5.jpg",
+        "categoria": {
+            "nombre": "Pasteles",
+            "id": "pasteles"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "postre-1",
+       "titulo": "Postre1",
+        "imagen": "./img/postre1.jpg",
+        "categoria": {
+            "nombre": "Postres",
+            "id": "postres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "postre-2",
+       "titulo": "Postre2",
+        "imagen": "./img/postre2.png",
+        "categoria": {
+            "nombre": "Postres",
+            "id": "postres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "postre-3",
+       "titulo": "Postre3",
+        "imagen": "./img/postre3.png",
+        "categoria": {
+            "nombre": "Postres",
+            "id": "postres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "postre-4",
+       "titulo": "Postre4",
+        "imagen": "./img/postre4.png",
+        "categoria": {
+            "nombre": "Postres",
+            "id": "postres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "postre-5",
+       "titulo": "Postre5",
+        "imagen": "./img/postre5.png",
+        "categoria": {
+            "nombre": "Postres",
+            "id": "postres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "postre-6",
+       "titulo": "Postre6",
+        "imagen": "./img/postre6.jpg",
+        "categoria": {
+            "nombre": "Postres",
+            "id": "postres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "postre-7",
+       "titulo": "Postre7",
+        "imagen": "./img/postre7.jpg",
+        "categoria": {
+            "nombre": "Postres",
+            "id": "postres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "postre-8",
+       "titulo": "Postre8",
+        "imagen": "./img/postre8.png",
+        "categoria": {
+            "nombre": "Postres",
+            "id": "postres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "postre-9",
+       "titulo": "Postre9",
+        "imagen": "./img/postre9.png",
+        "categoria": {
+            "nombre": "Postres",
+            "id": "postres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "postre-10",
+       "titulo": "Postre10",
+        "imagen": "./img/postre10.png",
+        "categoria": {
+            "nombre": "Postres",
+            "id": "postres"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "torta-1",
+       "titulo": "Torta1",
+        "imagen": "./img/torta1.jpg",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "torta-2",
+       "titulo": "Torta2",
+        "imagen": "./img/torta2.jpg",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 1000
+    }, 
+    {
+        "id": "torta-3",
+       "titulo": "Torta3",
+        "imagen": "./img/torta3.jpg",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 1000
+    }, 
+    {
+        "id": "torta-4",
+       "titulo": "Torta4",
+        "imagen": "./img/torta4.jpg",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 1000
+    },
+     {
+        "id": "torta-5",
+       "titulo": "Torta5",
+        "imagen": "./img/torta5.jpg",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "tortas"
+        },
+        "precio": 1000
+    },
+     {
+        "id": "torta-6",
+        "titulo": "Torta6",
+         "imagen": "./img/torta6.jpg",
+         "categoria": {
+             "nombre": "Tortas",
+             "id": "tortas"
+         },
+         "precio": 1000
+    }
+
+
+]

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pasteleria Dolce Tentazioni</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    
+    <nav>
+        <div class="nav-left">
+          <i class="bi bi-house"></i>
+          <a href="./index.html">Inicio</a>
+        </div>
+        <div class="nav-right">
+            <a class="boton-menu boton-carrito active" href="./carrito.html">
+                <i class="bi bi-cart4"></i> Carrito <span id="numerito" class="numerito">0</span>
+            </a>
+        </div>
+      </nav>
+
+     <section>
+        <h1 class="formulario-titulo">Formulario de Envío</h1>
+  <form id="myForm">
+    <label for="name">Nombre:</label>
+    <input type="text" id="nombre" name="nombre" required>
+
+    <label for="lastname">Apellido:</label>
+    <input type="text" id="apellido" name="apellido" required>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+
+    <label for="complaint">Queja o Comentario:</label>
+    <textarea id="areaTexto" name="areaTexto" rows="4" required></textarea>
+
+    <input type="submit" value="Enviar">
+     </section>
+
+     <footer>Copyright 2023© Todos los derechos reservados - Dolce Tentazioni</footer>
+
+            <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+             <script src="./js/app.js"></script>
+             <script src="./js/formulario.js"></script>
+</body>
+</html>
